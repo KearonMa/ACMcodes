@@ -1,4 +1,4 @@
-//Ë®Ìâ
+///æ°´é¢˜
 #include<bits/stdc++.h>
 using namespace std;
 int main()
