@@ -29,8 +29,6 @@ int main()
                 printf("The last character must be a symbol.\n");
             else
                 printf("The last character can be any type.\n");
-
-
         }
     }
 }
